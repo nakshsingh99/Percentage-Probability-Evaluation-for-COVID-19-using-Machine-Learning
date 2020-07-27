@@ -105,3 +105,13 @@ Hence we got the cases which are most and least critical. Now we can perform the
 ### Conclusion
 
 Different classification models gave different accuracy for the same dataset. We achieved an accuracy of 90.9% from Naive Bayes and SVM classifiers while 90.8% and 91.73% from Logistic Regression and Random Forest classifiers respectively which can further be improvised when trained on a bigger dataset and with a greater number of clinical features in the dataset.
+
+
+[1]: https://github.com/sonusingh99
+[2]: https://www.linkedin.com/in/sonu-singh-346988152/ 
+
+
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+---
+
